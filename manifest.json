@@ -1,0 +1,21 @@
+{
+  "name": "Studio Planner",
+  "short_name": "StudioPlanner",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "description": "Platform manajemen konten dan strategi sosial media berbasis data.",
+  "icons": [
+    {
+      "src": "https://imgur.com/jbvqgl0.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://imgur.com/jbvqgl0.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
